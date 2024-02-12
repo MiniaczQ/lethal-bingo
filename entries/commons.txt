@@ -1,20 +1,20 @@
-Emote on employee dead body
+Emote on an employee's dead body
 
-Survive a day without flashlight
+Survive a day without a flashlight
 
-Visit main and emergency exit
+Visit main entrance and an emergency exit
 
-Fill inventory with scrap
+Fill your inventory with scrap
 
 Spot an outdoor monster (dog, worm, giant, hawk)
 
-Take out Apparatus
+Take out an Apparatus
 
 Find a circuit breaker
 
-Bring a Bee Hive to ship
+Bring a Bee Hive to the ship
 
-See someone die on ship monitor
+See someone die on the ship monitor
 
 Succeed a beam jump
 
