@@ -12,3 +12,11 @@ SimpleLayout = [
     [U, C, U, C, U],
     [R, U, C, U, R],
 ]
+
+SimpleLayoutV2 = [
+    [U, C, R, C, U],
+    [C, U, C, U, C],
+    [R, C, F, C, R],
+    [C, U, C, U, C],
+    [U, C, R, C, U],
+]

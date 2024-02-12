@@ -1,12 +1,12 @@
-Emote on an employee's dead body
+See a dead employee body (mimics don’t count)
 
 Survive a day without a flashlight
 
 Visit main entrance and an emergency exit
 
-Fill your inventory with scrap
+Find a full inventory of scrap
 
-Spot an outdoor monster (dog, worm, giant, hawk)
+Find an outdoor monster (dog, worm, giant, hawk)
 
 Take out an Apparatus
 
@@ -18,10 +18,28 @@ See someone die on the ship monitor
 
 Succeed a beam jump
 
-Find 3 different inside monster types in one day
+Find 2 different inside monster types in one day
 
 Find someone who entered from a different entrance
 
 Find a horn and use it
 
 Find a stop or yield sign
+
+Open a door with a key
+
+Bring 50lb of fresh scrap in one trip
+
+Bring 100$ of fresh scrap in one trip
+
+Disable a turret for teammate (they need to go past it)
+
+Open a power factory door for teammate (they need to go past it)
+
+Bring back metal scrap during stormy weather
+
+Scare off a Bracken
+
+Find a loot room (not apparatus)
+
+Stop a steam leak

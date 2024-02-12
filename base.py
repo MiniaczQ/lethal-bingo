@@ -118,4 +118,4 @@ def save_bingo(entries: List[List[Entry]]):
     )
     mapped = RootModel(list(SerEntry(name=entry.name) for entry in flattened))
     with open("result.json", "wt") as f:
-        f.write(mapped.model_dump_json())
+        f.write(mapped.model_dump_json(indent=4))
