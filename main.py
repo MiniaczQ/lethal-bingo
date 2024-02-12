@@ -10,5 +10,5 @@ if __name__ == "__main__":
         FieldVariant.Uncommon: Uncommons,
         FieldVariant.Rare: Rares,
     }
-    bingo = generate_bingo(SimpleLayout, entries, Random(0))
+    bingo = generate_bingo(SimpleLayout, entries)
     save_bingo(bingo)

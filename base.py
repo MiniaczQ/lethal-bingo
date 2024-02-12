@@ -75,7 +75,7 @@ def env_filter_entries(
 def generate_bingo(
     layout: List[List[FieldVariant]],
     entries: DefaultDict[FieldVariant, List[Entry]],
-    rng: Random | None,
+    rng: Random | None = None,
 ) -> List[List[Entry]]:
     # Assert shape
     size = len(layout)
@@ -96,7 +96,8 @@ def generate_bingo(
     final_variant_entries = defaultdict(list)
     for variant, variant_entries in entries.items():
         k = layout_variant_count[variant]
-        final_variant_entries[variant] = rng.choices(variant_entries, k=k)
+        rng.shuffle(variant_entries)
+        final_variant_entries[variant] = variant_entries[:k]
     # Assemble board
     result = []
     for layout_row in layout:
